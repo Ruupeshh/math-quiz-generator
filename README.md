@@ -30,7 +30,7 @@ streamlit run app.py
 * `storage.py`: Code to save/load quiz results
 * `data/score_history.json`: Stores your past quiz results
 * `README.md`: (this file)
-* `demo.mp4`: demo of the app working
+* `mathquizgen_demo.mov`: demo of the app working
 
 ---
 
