@@ -1,0 +1,209 @@
+[
+  {
+    "timestamp": "2025-05-05 17:29",
+    "score": 2,
+    "total": 2,
+    "accuracy": "100.0",
+    "operation": "-",
+    "difficulty": "Easy",
+    "time_taken": 3.757522
+  },
+  {
+    "timestamp": "2025-05-05 17:30",
+    "score": 2,
+    "total": 2,
+    "accuracy": "100.0",
+    "operation": "\u00f7",
+    "difficulty": "Medium",
+    "time_taken": 16.227391
+  },
+  {
+    "timestamp": "2025-05-05 17:30",
+    "score": 2,
+    "total": 3,
+    "accuracy": "66.67",
+    "operation": "-",
+    "difficulty": "Hard",
+    "time_taken": 18.990508
+  },
+  {
+    "timestamp": "2025-05-05 17:30",
+    "score": 3,
+    "total": 3,
+    "accuracy": "100.0",
+    "operation": "+",
+    "difficulty": "Hard",
+    "time_taken": 22.460404
+  },
+  {
+    "timestamp": "2025-05-05 17:31",
+    "score": 3,
+    "total": 3,
+    "accuracy": "100.0",
+    "operation": "+",
+    "difficulty": "Medium",
+    "time_taken": 14.224395
+  },
+  {
+    "timestamp": "2025-05-05 17:31",
+    "score": 2,
+    "total": 3,
+    "accuracy": "66.67",
+    "operation": "-",
+    "difficulty": "Medium",
+    "time_taken": 14.235958
+  },
+  {
+    "timestamp": "2025-05-05 17:31",
+    "score": 2,
+    "total": 3,
+    "accuracy": "66.67",
+    "operation": "-",
+    "difficulty": "Hard",
+    "time_taken": 14.346275
+  },
+  {
+    "timestamp": "2025-05-05 17:32",
+    "score": 0,
+    "total": 3,
+    "accuracy": "0.0",
+    "operation": "\u00d7",
+    "difficulty": "Hard",
+    "time_taken": 7.777983
+  },
+  {
+    "timestamp": "2025-05-05 17:32",
+    "score": 1,
+    "total": 3,
+    "accuracy": "33.33",
+    "operation": "\u00d7",
+    "difficulty": "Hard",
+    "time_taken": 9.800834
+  },
+  {
+    "timestamp": "2025-05-05 17:32",
+    "score": 2,
+    "total": 3,
+    "accuracy": "66.67",
+    "operation": "\u00d7",
+    "difficulty": "Medium",
+    "time_taken": 12.031147
+  },
+  {
+    "timestamp": "2025-05-05 17:33",
+    "score": 3,
+    "total": 4,
+    "accuracy": "75.0",
+    "operation": "\u00d7",
+    "difficulty": "Medium",
+    "time_taken": 18.783568
+  },
+  {
+    "timestamp": "2025-05-05 17:33",
+    "score": 4,
+    "total": 4,
+    "accuracy": "100.0",
+    "operation": "\u00f7",
+    "difficulty": "Easy",
+    "time_taken": 16.537889
+  },
+  {
+    "timestamp": "2025-05-05 17:33",
+    "score": 1,
+    "total": 4,
+    "accuracy": "25.0",
+    "operation": "\u00f7",
+    "difficulty": "Medium",
+    "time_taken": 7.371893
+  },
+  {
+    "timestamp": "2025-05-05 17:34",
+    "score": 1,
+    "total": 2,
+    "accuracy": "50.0",
+    "operation": "\u00f7",
+    "difficulty": "Hard",
+    "time_taken": 9.5289
+  },
+  {
+    "timestamp": "2025-05-05 17:36",
+    "score": 1,
+    "total": 3,
+    "accuracy": "33.33",
+    "operation": "-",
+    "difficulty": "Easy",
+    "time_taken": 8.691644
+  },
+  {
+    "timestamp": "2025-05-05 17:40",
+    "score": 4,
+    "total": 4,
+    "accuracy": "100.0",
+    "operation": "+",
+    "difficulty": "Easy",
+    "time_taken": 8.159972
+  },
+  {
+    "timestamp": "2025-05-05 17:41",
+    "score": 2,
+    "total": 4,
+    "accuracy": "50.0",
+    "operation": "\u00d7",
+    "difficulty": "Easy",
+    "time_taken": 7.157286
+  },
+  {
+    "timestamp": "2025-05-05 17:42",
+    "score": 2,
+    "total": 4,
+    "accuracy": "50.0",
+    "operation": "\u00d7",
+    "difficulty": "Easy",
+    "time_taken": 6.439149
+  },
+  {
+    "timestamp": "2025-05-05 17:42",
+    "score": 1,
+    "total": 1,
+    "accuracy": "100.0",
+    "operation": "+",
+    "difficulty": "Easy",
+    "time_taken": 2.001372
+  },
+  {
+    "timestamp": "2025-05-05 19:01",
+    "score": 3,
+    "total": 3,
+    "accuracy": "100.0",
+    "operation": "+",
+    "difficulty": "Easy",
+    "time_taken": 5.24312
+  },
+  {
+    "timestamp": "2025-05-05 19:01",
+    "score": 0,
+    "total": 1,
+    "accuracy": "0.0",
+    "operation": "\u00f7",
+    "difficulty": "Easy",
+    "time_taken": 0.862592
+  },
+  {
+    "timestamp": "2025-05-05 19:02",
+    "score": 3,
+    "total": 5,
+    "accuracy": "60.0",
+    "operation": "\u00f7",
+    "difficulty": "Easy",
+    "time_taken": 7.279893
+  },
+  {
+    "timestamp": "2025-05-05 19:03",
+    "score": 2,
+    "total": 2,
+    "accuracy": "100.0",
+    "operation": "\u00f7",
+    "difficulty": "Easy",
+    "time_taken": 3.655858
+  }
+]
