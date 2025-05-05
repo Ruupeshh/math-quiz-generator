@@ -6,6 +6,12 @@ The user can choose what kind of math problems they want (like addition, subtrac
 
 The app also saves your results to a JSON file so you can view your past attempts and see how you're doing over time. There's a separate page where you can see charts (like your scores and accuracy over time).
 
+
+
+https://github.com/user-attachments/assets/f9c5b301-6710-44e1-b2bc-03a3ab14e146
+
+
+
 ## How to Run
 
 Make sure you have Python installed. Then:
