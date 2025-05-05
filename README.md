@@ -1,6 +1,6 @@
 # Math Quiz Generator
 
-This is my final project for **Computer Programming II**. It’s a math quiz app built using **Streamlit**.
+This is my final project for Computer Programming II. It’s a math quiz app built using Python Streamlit.
 
 The user can choose what kind of math problems they want (like addition, subtraction, multiplication, division, or mixed), and also the difficulty level (Easy, Medium, Hard). Then the app generates random questions and the user has to answer them. At the end, it shows your score, accuracy, and how long you took.
 
@@ -30,7 +30,7 @@ streamlit run app.py
 
 ## Author
 
-* Name: *\Rupesh Shrestha*
+* Name: Rupesh Shrestha
 * Course: Computer Programming II – Section 002
 * Date: May 5 2025
 
